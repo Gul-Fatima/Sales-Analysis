@@ -20,6 +20,9 @@ The **Sales Insights Data Analysis Project** uses a structured dataset to answer
 - Exploring patterns across different markets.
 - Revenue trends over time.
 
+![Sales Dashboard](https://github.com/Gul-Fatima/Sales-Analysis/blob/main/BI%20Dashboard.PNG)
+
+
 Technologies used:
 - SQL for querying and analyzing data.
 - Power BI for visualization.
