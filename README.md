@@ -22,6 +22,20 @@ The **Sales Insights Data Analysis Project** uses a structured dataset to answer
 
 ![Sales Dashboard](https://github.com/Gul-Fatima/Sales-Analysis/blob/main/BI%20Dashboard.PNG)
 
+### **Insights from Data Analysis**
+
+- **Delhi drives the highest revenue (520M)**, suggesting it as the top priority for resource allocation and market campaigns.
+- **Low-performing markets** like Bhubaneswar and Lucknow need strategic focus to unlock potential or could be deprioritized.
+- A small percentage of customers, such as **Electricalsara Stores**, contribute significantly to revenue, highlighting opportunities for loyalty programs and targeted upselling.
+- Seasonal trends show **revenue spikes in January**, indicating high sales months for focused marketing.
+- Consolidation of revenue data (INR and USD) is crucial for better decision-making and consistent reporting.
+
+**Key Actions:**
+- Prioritize top markets for campaigns and allocate resources to Delhi, Mumbai, and Ahmedabad.
+- Address pain points in low-performing markets or reallocate efforts.
+- Leverage customer trends to build loyalty programs and cross-selling strategies.
+
+---
 
 Technologies used:
 - SQL for querying and analyzing data.
