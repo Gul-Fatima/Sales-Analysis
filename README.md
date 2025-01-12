@@ -31,8 +31,10 @@ The dataset includes the following tables:
 - **Customers:** Contains customer details.
 - **Transactions:** Includes sales transactions with market codes, product codes, and sales amounts.
 - **Date:** Provides details of transaction dates (year, month, day).
+- **Markets** Provides geographical information.
+- **Products** Provides information about product category.
 
-**Data Source:** The dataset was obtained as part of a tutorial and is included in the project as `db_dump.sql`.
+**Data Source:** The dataset was obtained as part of a tutorial by [codebasics](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b&index=2) and is included in the project as `db_dump.sql`.
 
 ---
 
@@ -148,4 +150,3 @@ The visualizations and queries provide actionable insights that can help busines
 This project follows the MIT License. Refer to the `LICENSE` file for details.
 ```
 
-Feel free to customize it further! Let me know if you'd like to add more details or modify specific sections.
